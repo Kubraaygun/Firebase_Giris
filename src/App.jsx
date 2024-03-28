@@ -19,7 +19,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Merhaba</h1>
+      <h1>Firebase</h1>
       <button onClick={()=>signInWithPopup(auth,provider)}>Google İle Giriş Yap</button>
      
     </>
