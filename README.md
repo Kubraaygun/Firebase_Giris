@@ -37,5 +37,8 @@ Firebase, kullanıcı kimlik doğrulaması, veri şifreleme ve güvenli bağlant
 <li>Analitik ve Performans İzleme:</li>
 Firebase, uygulamanızın performansını ve kullanımını izlemek için kapsamlı analitik araçlar sunar. Bu, kullanıcı davranışlarını anlamak ve uygulamanızı sürekli olarak iyileştirmek için değerli bilgiler sağlar.
 </ol>
+
+
 <h2>Ekran Görüntüsü</h2>
+
 ![](./public/firebasee.png)
